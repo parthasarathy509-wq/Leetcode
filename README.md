@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1251-average-selling-price](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1251-average-selling-price) |
 | [1341-movie-rating](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1341-movie-rating) |
 <!---LeetCode Topics End-->
