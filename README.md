@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0176-second-highest-salary) |
 | [1251-average-selling-price](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1251-average-selling-price) |
 | [1341-movie-rating](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1341-movie-rating) |
 | [1527-patients-with-a-condition](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1527-patients-with-a-condition) |
