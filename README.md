@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0185-department-top-three-salaries) |
+| [0197-rising-temperature](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0550-game-play-analysis-iv) |
 | [1251-average-selling-price](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1251-average-selling-price) |
 | [1321-restaurant-growth](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1321-restaurant-growth) |
