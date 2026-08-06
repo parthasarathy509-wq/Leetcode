@@ -20,4 +20,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-movie-rating](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1341-movie-rating) |
 | [1527-patients-with-a-condition](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
