@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0550-game-play-analysis-iv) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1164-product-price-at-a-given-date](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
