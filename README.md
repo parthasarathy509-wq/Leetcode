@@ -25,5 +25,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1661-average-time-of-process-per-machine](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
