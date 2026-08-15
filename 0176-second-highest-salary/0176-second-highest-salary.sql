@@ -1,12 +1,8 @@
-Select 
-Case 
-     when count(salary)=1 then salary 
-     else null 
-end as SecondHighestSalary
-
-    from (
-        Select distinct salary from Employee 
-        order by salary desc 
-        Limit 1 OFFSET 1
-    ) as c 
-    ;
+select 
+max(salary) as SecondHighestSalary
+from 
+(select id,salary,
+dense_rank() over(order by salary desc) as rank_
+from Employee ) as c 
+where rank_=2
+;
