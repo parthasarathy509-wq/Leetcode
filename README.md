@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
