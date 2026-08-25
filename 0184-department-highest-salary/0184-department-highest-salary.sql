@@ -1,8 +1,9 @@
-
-select d.name Department,c.name Employee,Salary
+select 
+Department,Employee,Salary
 from
-(select id,name,salary,departmentId ,
-dense_rank() over(partition by departmentId order by salary desc) as Rank_
-from Employee ) as c inner join Department d on c.departmentId=d.id
-where Rank_=1
-;
+(select  d.name Department , e.name Employee ,salary Salary ,
+dense_rank() over(partition by d.id order by salary desc)  as ranking
+ from Employee e inner join Department d on e.departmentId=d.id
+ )as c 
+ where ranking=1
+ ;
