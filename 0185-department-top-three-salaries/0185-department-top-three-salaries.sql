@@ -1,14 +1,9 @@
-SELECT 
-    d.name AS Department,
-    c.Employee,
-    c.Salary
-FROM (
-    SELECT 
-        departmentId,
-        name AS Employee,
-        Salary,
-        DENSE_RANK() OVER(PARTITION BY departmentId ORDER BY Salary DESC) AS D_rank
-    FROM Employee
-) as c 
-INNER JOIN Department d ON c.departmentId = d.id
-WHERE c.D_rank <= 3;
+select 
+Department,Employee,Salary
+from
+(select e.id,e.name as Employee,salary as Salary,departmentId,d.name as Department,
+dense_rank() over(partition by departmentId order by salary desc) as ranking
+from 
+Department d inner join Employee e on d.id=e.departmentId ) as c 
+where ranking IN(1,2,3)
+;
