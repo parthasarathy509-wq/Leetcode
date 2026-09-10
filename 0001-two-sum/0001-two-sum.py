@@ -1,10 +1,12 @@
-class Solution:
-    def twoSum(self,l, t):
-        for i in range(len(l)):
-            f = l[i]
-            for j in range(i + 1, len(l)):
-                g = l[j]
-                if f + g == t:
-                    return [i, j]
-                else:
-                    continue
+class Solution :
+    def twoSum(self,nums,target):
+        mem={}
+        for i,num in enumerate(nums):
+            ma=target-num
+        
+            if ma in mem:
+                return [mem[ma],i]
+            
+            mem[num]=i
+
+                
