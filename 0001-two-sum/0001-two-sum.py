@@ -1,12 +1,8 @@
 class Solution :
     def twoSum(self,nums,target):
-        mem={}
-        for i,num in enumerate(nums):
-            ma=target-num
-        
-            if ma in mem:
-                return [mem[ma],i]
-            
-            mem[num]=i
-
-                
+        dictt ={}
+        for i,n in enumerate(nums):
+            miss=target-n
+            if miss in dictt:
+                return [dictt[miss],i]
+            dictt[n]=i
