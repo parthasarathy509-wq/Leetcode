@@ -7,4 +7,4 @@ FROM
 WHERE 
     query_name IS NOT NULL
 GROUP BY 
-    query_name;
+    query_name
