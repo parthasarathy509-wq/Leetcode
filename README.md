@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
