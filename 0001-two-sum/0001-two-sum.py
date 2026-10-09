@@ -1,8 +1,10 @@
-class Solution :
-    def twoSum(self,nums,target):
-        dictt ={}
-        for i,n in enumerate(nums):
-            miss=target-n
-            if miss in dictt:
-                return [dictt[miss],i]
-            dictt[n]=i
+class Solution:
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        a={}
+        for i,l in enumerate(nums):
+            m=target-l
+            if m in a:
+                return a[m],i
+            a[l]=i
+
+        
