@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0217-contains-duplicate) |
 | [0930-binary-subarrays-with-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0242-valid-anagram) |
 | [0930-binary-subarrays-with-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -71,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
