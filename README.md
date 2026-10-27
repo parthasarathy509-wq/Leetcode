@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Hash Table
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Trie
 |  |
