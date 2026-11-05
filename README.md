@@ -132,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0036-valid-sudoku) |
+## Math
+|  |
+| ------- |
+| [0728-self-dividing-numbers](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
