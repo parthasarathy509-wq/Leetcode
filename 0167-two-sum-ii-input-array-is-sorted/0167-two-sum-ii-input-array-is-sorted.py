@@ -1,8 +1,12 @@
 class Solution:
     def twoSum(self, numbers: list[int], target: int) -> list[int]:
-        a={}
-        for i ,n in enumerate(numbers):
-            miss=target-n
-            if miss in a:
-                return [a[miss]+1,i+1]
-            a[n]=i
+        l=0
+        r=len(numbers)-1
+        while l<r:
+            current=numbers[l]+numbers[r]
+            if current == target:
+                return [l+1,r+1]
+            if current>target:
+                r-=1
+            else:
+                l+=1
