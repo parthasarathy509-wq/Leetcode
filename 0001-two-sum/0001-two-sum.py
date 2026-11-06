@@ -3,7 +3,7 @@ class Solution:
         a={}
         for i,n in enumerate(nums):
             miss=target-n
-            if miss in a :
-                return (a[miss],i)
+            if miss in a:
+                return [a[miss],i]
             a[n]=i
         
