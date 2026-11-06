@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0053-maximum-subarray) |
+| [0135-candy](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0135-candy) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
