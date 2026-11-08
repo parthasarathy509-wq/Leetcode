@@ -159,4 +159,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
