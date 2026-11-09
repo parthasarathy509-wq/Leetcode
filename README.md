@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0735-asteroid-collision](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0735-asteroid-collision) |
 | [0930-binary-subarrays-with-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0735-asteroid-collision](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
