@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0217-contains-duplicate) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0242-valid-anagram) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0146-lru-cache) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
