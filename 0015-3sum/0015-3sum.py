@@ -11,9 +11,9 @@ class Solution:
             r=len(nums)-1
             while l<r:
                 total=nums[i]+nums[l]+nums[r]
-                if total <0:
+                if total<0:
                     l+=1
-                elif total >0:
+                elif total>0:
                     r-=1
                 else:
                     res.append([nums[i],nums[l],nums[r]])
@@ -23,5 +23,5 @@ class Solution:
                         l+=1
                     while l<r and nums[r]==nums[r+1]:
                         r-=1
-        return res 
-        
+        return res
+
