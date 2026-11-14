@@ -1,20 +1,15 @@
 class Solution:
     def maxArea(self, height: list[int]) -> int:
-        left = 0
-        right = len(height) - 1
-        max_water = 0
-        
-        while left < right:
-            # 1. Calculate area using your logic
-            current_area = min(height[left], height[right]) * (right - left)
-            
-            # 2. Keep track of the max
-            max_water = max(max_water, current_area)
-            
-            # 3. Greedily move the pointer of the shorter wall inward
-            if height[left] < height[right]:
-                left += 1
+        cur=[]
+        l=0
+        r=len(height)-1
+        while l<r:
+            le=r-l
+            wid=min(height[l],height[r])
+            max_cur=le*wid
+            cur.append(max_cur)
+            if height[l]>height[r]:
+                r-=1
             else:
-                right -= 1
-                
-        return max_water
+                l+=1
+        return max(cur)
