@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0735-asteroid-collision](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0735-asteroid-collision) |
 | [0930-binary-subarrays-with-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0053-maximum-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Stack
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Trie
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Binary Search
 |  |
 | ------- |
