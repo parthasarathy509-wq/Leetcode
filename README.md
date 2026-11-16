@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0242-valid-anagram) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/parthasarathy509-wq/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0735-asteroid-collision) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/parthasarathy509-wq/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## DP on Trees
 |  |
 | ------- |
