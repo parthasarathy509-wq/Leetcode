@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
