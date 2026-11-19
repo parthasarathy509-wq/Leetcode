@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0735-asteroid-collision](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -90,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
