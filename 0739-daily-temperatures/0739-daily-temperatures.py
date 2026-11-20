@@ -1,13 +1,11 @@
 class Solution:
-    def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
-        n = len(temperatures)
-        res = [0] * n
-        stack = []  # Stores indices of days waiting for a warmer temperature
-
-        for i in range(n):
-            while stack and temperatures[i] > temperatures[stack[-1]]:
-                prev_index = stack.pop()
-                res[prev_index] = i - prev_index
-            stack.append(i)
-
-        return res
+    def dailyTemperatures(self, temperatures: list[int]) -> list[int]:
+        res=[0]*len(temperatures)
+        s=[]
+        t=temperatures
+        for i in range(len(t)):
+            while s and t[i]>t[s[-1]]:
+                pope=s.pop()
+                res[pope]=i-pope
+            s.append(i)
+        return res    
