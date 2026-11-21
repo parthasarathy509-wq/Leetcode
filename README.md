@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0853-car-fleet) |
 | [0930-binary-subarrays-with-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -96,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0853-car-fleet) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0853-car-fleet) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sorting
 |  |
 | ------- |
