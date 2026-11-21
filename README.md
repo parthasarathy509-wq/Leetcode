@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0242-valid-anagram) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/parthasarathy509-wq/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -191,11 +194,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
 |  |
 | ------- |
