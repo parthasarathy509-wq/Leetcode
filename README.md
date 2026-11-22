@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/parthasarathy509-wq/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Hash Table
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0853-car-fleet) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/parthasarathy509-wq/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## String
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0135-candy) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/parthasarathy509-wq/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
