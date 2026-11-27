@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parthasarathy509-wq/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/parthasarathy509-wq/Leetcode/tree/master/0135-candy) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/parthasarathy509-wq/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/parthasarathy509-wq/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
